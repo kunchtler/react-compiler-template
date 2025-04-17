@@ -1,0 +1,8 @@
+# JS Libs
+node_modules
+
+# Build dir
+dist
+
+# Editor directories and files
+.vscode
